@@ -5,7 +5,7 @@ A continuación te muestro como poner las cámaras de la DGT, dentro de nuestra 
 ![20230125_192917](https://user-images.githubusercontent.com/34164094/214651478-e3267462-956c-4421-a4dc-08a8ac1e7a7b.gif)
 
 
-Para que entiendas el funcionamiento básico de las cámaras de la DGT, estás no son vídeos en directo sino imágenes que van actualizándose cada pocos minutos. Podemos introducir estás imágenes dentro de Home Assistant, ya que estás imágenes se actualizan, pero no se modifica su nombre.
+Para que entiendas el funcionamiento básico de las cámaras de la DGT, estás imágenes no son vídeos en directo sino imágenes fijas que van actualizándose cada pocos minutos. Podemos introducir estás imágenes dentro de Home Assistant, ya que estás imágenes se actualizan, pero no se modifica su nombre
 
 Pasos a seguir:
 
