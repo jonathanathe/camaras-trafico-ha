@@ -54,5 +54,6 @@ cards:
       buttons:
         frigate_ui:
           enabled: false
-``
+```
 ¡Y eso es todo, espero que os sirva y que podáis disfrutar cada vez más de vuestra instancia de Home Assistant!
+
